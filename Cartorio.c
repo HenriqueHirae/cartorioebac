@@ -167,6 +167,7 @@ int main()
 		
 		        case 4:
 		        printf("Obrigado pro utilizar o sistema! \n");
+		        return 0;
 		        break;
 		    	
 		    	default:
